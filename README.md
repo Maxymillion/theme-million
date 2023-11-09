@@ -15,8 +15,6 @@ Amidst the chaos of a million obligations, find delight in your command shell.
 
 Oh My Fish's [theme-default] is used for the initial version.
 
-<br>
-
 --------
 *Million* is distributed under the [MIT license] © [Maxymillion]
 
