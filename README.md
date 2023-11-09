@@ -20,5 +20,5 @@ Oh My Fish's [theme-default] is used for the initial version.
 
 [Oh My Fish]:      https://www.github.com/oh-my-fish/oh-my-fish
 [theme-default]:    https://github.com/oh-my-fish/theme-default
-[MIT license]: LICENSE-MIT
+[MIT license]: LICENSE
 [Maxymillion]:     https://github.com/Maxymillion
